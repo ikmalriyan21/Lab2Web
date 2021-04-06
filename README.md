@@ -7,7 +7,7 @@
 
 # Langkah-langkah praktikum
 
-Awal mula kita membuat laman html seperti berikut ini
+Awal mula kita membuat laman HTML seperti berikut ini
 
 
 
@@ -37,3 +37,16 @@ Hasil Output
 
 
 ![input](https://github.com/ikmalriyan21/Lab2Web/blob/5d166c6dd0429131b3561b219cb682bea1aca7b6/Gambar/output%20deklarasi.png)
+
+Membuat CSS Eksternal untuk menambahkan background pada tulisan CSS Dasar, CSS Eksternal dan HTML Dasar
+
+
+
+
+
+![input](https://github.com/ikmalriyan21/Lab2Web/blob/4171189e323a386367f2e4e2737c3ba5216dbc34/Gambar/codingan%20css%20eksternal.png)
+
+Hasil Outputnya
+
+
+

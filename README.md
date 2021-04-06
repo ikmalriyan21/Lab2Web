@@ -29,3 +29,11 @@ Selanjutnya adalah mendeklarasikan CSS Internal
 
 
 ![input](https://github.com/ikmalriyan21/Lab2Web/blob/6d87ad9c1e8f55de7c0347c2cfdfb27beba57527/Gambar/codingan%20deklarasi.png)
+
+Hasil Output
+
+
+
+
+
+![input](https://github.com/ikmalriyan21/Lab2Web/blob/5d166c6dd0429131b3561b219cb682bea1aca7b6/Gambar/output%20deklarasi.png)

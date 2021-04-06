@@ -69,3 +69,13 @@ Hasil Outputnya
 
 
 ![input](https://github.com/ikmalriyan21/Lab2Web/blob/2bf33c9828aa90cfee75bf4e8313bafdb538ca49/Gambar/output%20css%20eksternal.png)
+
+Selanjutnya menambahkan CSS Selector
+
+
+
+
+
+![input](https://github.com/ikmalriyan21/Lab2Web/blob/40d3627cd9176be40e3ab8ed3a7ddff6fd516d3d/Gambar/codingan%20css%20selector.png)
+
+Hasil Outputnya

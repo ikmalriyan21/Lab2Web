@@ -38,6 +38,16 @@ Hasil Outputnya
 
 ![input](https://github.com/ikmalriyan21/Lab2Web/blob/5d166c6dd0429131b3561b219cb682bea1aca7b6/Gambar/output%20deklarasi.png)
 
+Menambahkan Inline CSS pada tulisan yang berparagraf
+
+
+
+
+
+![input](https://github.com/ikmalriyan21/Lab2Web/blob/297e8883e2bc701e72b0d037febebae1972911c3/Gambar/codingan%20inline.png)
+
+Hasil Outputnya
+
 Membuat CSS Eksternal untuk menambahkan background pada tulisan CSS Dasar, CSS Eksternal dan HTML Dasar
 
 

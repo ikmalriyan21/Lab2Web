@@ -30,7 +30,7 @@ Selanjutnya adalah mendeklarasikan CSS Internal
 
 ![input](https://github.com/ikmalriyan21/Lab2Web/blob/6d87ad9c1e8f55de7c0347c2cfdfb27beba57527/Gambar/codingan%20deklarasi.png)
 
-Hasil Output
+Hasil Outputnya
 
 
 
@@ -50,3 +50,6 @@ Hasil Outputnya
 
 
 
+
+
+![input](https://github.com/ikmalriyan21/Lab2Web/blob/2bf33c9828aa90cfee75bf4e8313bafdb538ca49/Gambar/output%20css%20eksternal.png)

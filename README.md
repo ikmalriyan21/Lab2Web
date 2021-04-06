@@ -79,3 +79,24 @@ Selanjutnya menambahkan CSS Selector
 ![input](https://github.com/ikmalriyan21/Lab2Web/blob/40d3627cd9176be40e3ab8ed3a7ddff6fd516d3d/Gambar/codingan%20css%20selector.png)
 
 Hasil Outputnya
+
+
+
+
+
+![input](https://github.com/ikmalriyan21/Lab2Web/blob/3ee104bbc3270fe81251b68c600dd7ffed8c2611/Gambar/hasil.png)
+
+Pertanyaan dan Tugas
+1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS 
+dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
+2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan 
+penjelasannya!
+3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada 
+elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan 
+penjelasan dan contohnya!
+4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut 
+terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? 
+Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf"> )
+
+Jawaban
+2. 

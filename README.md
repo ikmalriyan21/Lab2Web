@@ -21,3 +21,11 @@ Hasil outputnya seperti berikut
 
 
 ![input](https://github.com/ikmalriyan21/Lab2Web/blob/ac196c11ceb7e57b7c8827554bdfd683979d1d7a/Gambar/output%20awal.png)
+
+Selanjutnya adalah mendeklarasikan CSS Internal
+
+
+
+
+
+![input](https://github.com/ikmalriyan21/Lab2Web/blob/6d87ad9c1e8f55de7c0347c2cfdfb27beba57527/Gambar/codingan%20deklarasi.png)
